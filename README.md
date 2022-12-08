@@ -7,6 +7,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![Outcomes Vs Lunchdate](https://user-images.githubusercontent.com/115379848/206328673-27eb5221-b649-4083-b945-8ea5f336c31b.png)
 
 ### Analysis of Outcomes Based on Goals
 ![Outcome based on goals chart](https://user-images.githubusercontent.com/115379848/206328255-9c3735fa-4ec4-4074-beb2-dce17bb69bfa.png)
