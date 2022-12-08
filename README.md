@@ -15,10 +15,9 @@ Using the kickster dataset, Louise wanted to know the how different campaigns pe
 
 ![Threater Outcomes by Lunchdate](https://user-images.githubusercontent.com/115379848/206587524-6d981f68-fa01-4aff-909b-ca8c9c7816e9.JPG)
 
-
 ### Analysis of Outcomes Based on Goals
-
 ![Outcome based on goals](https://user-images.githubusercontent.com/115379848/206587070-0fb21957-419c-4d63-8fc5-a96f8e1d12c1.JPG)
+
 
 In the range goal of 45000 to 49999, the percentage of failure is equal to the percentage of success is 0% as opposed to 100% failure.
 ### Challenges and Difficulties Encountered
