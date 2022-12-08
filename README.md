@@ -5,7 +5,7 @@ The project is aimed at organizing and analyzing data to understand the data and
 The purpose of this analysis is to help understand the correlation/relationship between the type of campaign, launch date, and funding goals.
 How different campaigns performed to their lunch date and funding goals. How does the lunch date or funding goal affect the performance of the campaign
 ### Purpose
-
+Using the kickster dataset, Louise wanted to know the how different campaigns performed during different time of the year and their funding goals. How did the variables affect the sucess and failure of the compaign.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
