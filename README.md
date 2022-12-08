@@ -9,8 +9,7 @@ Using the kickster dataset, Louise wanted to know the how different campaigns pe
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
-![Outcomes Vs Lunchdate](https://user-images.githubusercontent.com/115379848/206328673-27eb5221-b649-4083-b945-8ea5f336c31b.png)
+[Kickstarter_Challenge.xlsx](https://github.com/TONY-H83/kickstarter-analysis/files/10190449/Kickstarter_Challenge.xlsx)
 
 ### Analysis of Outcomes Based on Goals
 
