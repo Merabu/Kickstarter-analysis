@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-The analysis is aimed at organizing and analyzing data to understand the data and discover helpful conclusions
+The project is aimed at organizing and analyzing data to understand the data and discover helpful conclusions
 The purpose of this analysis is to help understand the correlation/relationship between the type of campaign, launch date, and funding goals.
 How different campaigns performed to their lunch date and funding goals. How does the lunch date or funding goal affect the performance of the campaign
 ### Purpose
