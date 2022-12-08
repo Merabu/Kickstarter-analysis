@@ -26,8 +26,9 @@ In this analysis, we have our highest successful outcome in June after a gradual
 From January to September there is a consistently failed outcome with a slight increase in October.
 Bar chart for countries vs  total outcome or line graph showing
 - What can you conclude about the Outcomes based on Goals?
-As shown in the attached screen shoot, the analysis shows that as the goal range was increasing, the percentage of success kept decreasing until the goal hit 25000 to 29999, where we see a sharp increase in the percentage successful. There was a dramatic decrease in the percentage success in the range of 45000 to 4999 showing no success in this range.
+As shown in the attached screen shoot, the analysis shows that as the goal range was increasing, the percentage of success kept decreasing until the goal hit 25000 to 29999, where we see a sharp increase in the percentage successful. There was a dramatic decrease in the percentage success in the range of 45000 to 4999 showing no success in this range.In the range goal of 45000 to 49999, the percentage of failure is equal to the percentage of success is 0% as opposed to 100% failure.
 As the goal range increased from 1000 to 29999 the percentage failed consistently increases. It's important to note that there is 100% failure in the goal range of 45000 to 49999 and with a dramatic increase of 62% of failure in the goal outcome range of 40000 to 34999.
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+Create a line graph showing how different regions/countries performed during different time of the year.
