@@ -9,6 +9,7 @@
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
+![Outcome based on goals chart](https://user-images.githubusercontent.com/115379848/206328255-9c3735fa-4ec4-4074-beb2-dce17bb69bfa.png)
 
 ### Challenges and Difficulties Encountered
 
