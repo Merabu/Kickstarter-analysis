@@ -8,15 +8,15 @@ How different campaigns performed to their lunch date and funding goals. How doe
 Using the kickster dataset, Louise wanted to know the how different campaigns performed during different time of the year and their funding goals. How did the variables affect the sucess and failure of the compaign.
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Goals
+### Analysis of Outcomes Based on Lunch date
 
 
 
 
-![Threater Outcomes by goal](https://user-images.githubusercontent.com/115379848/206587524-6d981f68-fa01-4aff-909b-ca8c9c7816e9.JPG)
+![Threater Outcomes by lunch date](https://user-images.githubusercontent.com/115379848/206587524-6d981f68-fa01-4aff-909b-ca8c9c7816e9.JPG)
 
-### Analysis of Outcomes Based on Lunch date.
-![Outcome based on lunchdate](https://user-images.githubusercontent.com/115379848/206587070-0fb21957-419c-4d63-8fc5-a96f8e1d12c1.JPG)
+### Analysis of Outcomes Based on Goals.
+![Outcome based on goals](https://user-images.githubusercontent.com/115379848/206587070-0fb21957-419c-4d63-8fc5-a96f8e1d12c1.JPG)
 
 
 In the range goal of 45000 to 49999, the percentage of failure is equal to the percentage of success is 0% as opposed to 100% failure.
