@@ -15,8 +15,8 @@ To achieve the analysis shown in the screenshot above, I processed the raw data 
 
 ### Analysis of Outcomes Based on Goals.
 ![Outcome based on goals](https://user-images.githubusercontent.com/115379848/206587070-0fb21957-419c-4d63-8fc5-a96f8e1d12c1.JPG)
-
-
+In this analysis, I was provided with the goal ranges to group the data and expected to help Louise visualize campaign outcomes based on funding goals. Utilized the formula =COUNTIFS(Kickstarter!$D:$D,"<1000",Kickstarter!$F:$F,"successful",Kickstarter!$U:$U, "plays" for single goals and =COUNTIFS(Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D, "<=4999",Kickstarter!$F:$F,"successful",Kickstarter!$U:$U, "plays" for goal range.
+I also created percentages for success, canceled, and failure.
 In the range goal of 45000 to 49999, the percentage of failure is equal to the percentage of success is 0% as opposed to 100% failure.
 ### Challenges and Difficulties Encountered
 Limited information for example in the outcome rang 45000 to 49999 100% failure percentage in the outcome. I would love to know more about what transpired during that goal range.
