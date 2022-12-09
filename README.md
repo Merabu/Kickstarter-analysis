@@ -11,7 +11,7 @@ Using the kickster dataset, Louise wanted to know the how different campaigns pe
 ### Analysis of Outcomes Based on Lunch date
 ![Threater Outcomes by lunch date](https://user-images.githubusercontent.com/115379848/206587524-6d981f68-fa01-4aff-909b-ca8c9c7816e9.JPG)
 
-To achieve the analysis shown in the screenshot above, I processed the raw data given to me in the "Kickstarter" dataset to achieve Louise's needs, how different campaigns faired in relation to their lunch date for parent category theater. I manipulated the data to show more colmn to help with the analysis: I added filtered parent category, date created for date launched =DATE(1970,1,1)+(J2/86400), extracted the year and month with the formula =YEAR(O2) and =TEXT(R2*28, "mmm") respectfully
+To achieve the analysis shown in the screenshot above, I processed the raw data given to me in the "Kickstarter" dataset to achieve Louise's needs, how different campaigns faired in relation to their lunch date for parent category theater. I used different formulas to create more colmns to help with the analysis: I added filtered parent category, date created for date launched =DATE(1970,1,1)+(J2/86400), extracted the year and month with the formula =YEAR(O2) and =TEXT(R2*28, "mmm") respectfully
 
 ### Analysis of Outcomes Based on Goals.
 ![Outcome based on goals](https://user-images.githubusercontent.com/115379848/206587070-0fb21957-419c-4d63-8fc5-a96f8e1d12c1.JPG)
